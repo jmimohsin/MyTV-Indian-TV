@@ -4,6 +4,6 @@ Android Live Indian TV app. In case if you don't found MyTV app on play store th
 
 1. Play store:- https://play.google.com/store/apps/details?id=coders.hub.live.mytv.v2
 
-2. Direct Download:- https://github.com/jmimohsin/MyTV-Indian-TV/raw/master/mytv_v2.apk
+2. Direct Download:- https://github.com/jmimohsin/MyTV-Indian-TV/raw/master/mytv_v2_1.1.apk
 
 3. Facebook page for update details:- https://www.facebook.com/IndianTvFm
