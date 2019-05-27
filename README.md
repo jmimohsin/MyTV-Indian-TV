@@ -6,6 +6,3 @@ Android Live Indian TV app. This app is related to all India Live TVs, Easy to u
 2. FM India Radio:- https://github.com/jmimohsin/MyTV-Indian-TV/raw/master/FM_with_record.apk
 
 3. Facebook page for update details:- https://www.facebook.com/IndianTvFm
-
-## Donation
-Donate if you like this app via paypal: info@coders-hub.com
